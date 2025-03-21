@@ -21,9 +21,12 @@ function Show-Menu {
     Write-Host "OH Spoofer"
     Write-Host "====================="
     Write-Host "Wählen Sie eine Option:"
-    Write-Host "1. Umbenennen des Computers zu einem zufälligen Namen"
+    Write-Host "1. Umbenennen des Computers"
+    Write-Host "======================================================"
     Write-Host "2. Weitere Aktion 2 (hier könnte eine andere Funktion sein)"
+    Write-Host "==========================================================="
     Write-Host "3. Weitere Aktion 3 (hier könnte eine andere Funktion sein)"
+    Write-Host "==========================================================="
     Write-Host "4. Beenden"
     Write-Host "====================="
 }
